@@ -16,7 +16,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 # Programa del curso
 <div id='id-programa'/>
 
-(El programa aún está en construcciín, las fechas y algunos temas pueden cambiar).
+(El programa aún está sujeto a modificaciones. Las fechas y algunos temas pueden cambiar).
 
 [Programa del curso](programa/Programa-cv2025.pdf){:target="_blank"}
 
