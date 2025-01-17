@@ -36,7 +36,9 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 
 **No.**  | **Fecha**    | **Tópicos**                                                       | **Recursos**
 -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
-01       | 14.01.2025   | Introducción al curso.   | 
+01       | 14.01.2025   | Introducción al curso. Desarrollo de la VC. <br/>  | [Aula 01](aulas/Aula01.pdf){:target="_blank"} 
+02       | 14.01.2025   | Tipos de imágenes: binarias, escala de grises, a color, multiespectro.  | [Aula 02](aulas/Aula02.pdf){:target="_blank"} 
+03       | 16.01.2025   | Transformaciones básicas en imágenes. Histogramas. Corrección $\alpha$. Corrección $\gamma$. | 
 
 
 # Proyectos
