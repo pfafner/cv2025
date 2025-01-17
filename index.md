@@ -1,9 +1,5 @@
 # Visión por Computadora 2025
 
-<img src="https://freesvg.org/img/warning2.png" alt="Warning!" width="100">
-
-This site is under construction! 
-
 Este es un curso introductorio a la visión computacional (CV). Haremos un recorrido por las técnicas estándar para el procesamiento de imágenes digitales, el diseño de filtros básicos y aplicaciones de transformaciones, las cuales sirvan como base para el desarrollo de aplicaciones inteligentes asociadas a imágenes.
 
 Aprenderemos y estudiaremos los algoritmos más comunes para la detección, extracción y comparación de características. Abordaremos también el estudio geométrico de imágenes de una vista (*one-point-view*) y de dos vistas (*two-point-view*), y sus transformaciones asociadas. Estos algoritmos se utilizan para alinear y unir imágenes para crear una única imagen de una escena más grande, y para recrear escenas 3D a partir de imágenes planas.
