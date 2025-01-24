@@ -34,9 +34,9 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
 01       | 14.01.2025   | Introducción al curso. Desarrollo de la VC. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
 02       | 14.01.2025   | Tipos de imágenes: binarias, escala de grises, a color, multiespectro. [Aula 02](aulas/Aula02.pdf){:target="_blank"}  | 
-03       | 16.01.2025   | Transformaciones básicas en imágenes. Histogramas. Corrección $\alpha$. Corrección $\gamma$. | 
-04       | 23.01.2025   | Formación de imágenes. Luminancia y crominancia. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Cap. 1 Forsyth-Ponce 
-05       | 23.01.2025   | Espacios de color: RGB, HSV y HSL, CIExy, YUV, YCbCr. | [house.jpeg](code/house.jpeg){:target="_blank"} [bananas.jpeg](code/bananas.jpeg){:target="_blank"} [fresas.png](code/fresas.png){:target="_blank"}
+03       | 16.01.2025   | Transformaciones básicas en imágenes. Histogramas. Corrección $\gamma$. | [plane.png](code/plane.png){:target="_blank"} [plane_mask.png](code/plane_mask.png){:target="_blank"} [quetzal.png](code/quetzal.png){:target="_blank"} <br/> [image-types.ipynb](code/image-types.ipynb){:target="_blank"}
+04       | 23.01.2025   | Formación de imágenes. Luminancia y crominancia. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Forsyth-Ponce, Cap. 1 
+05       | 23.01.2025   | Espacios de color: RGB, HSV y HSL, CIExy, YUV, YCbCr. | [house.jpeg](code/house.jpeg){:target="_blank"} [bananas.jpeg](code/bananas.jpeg){:target="_blank"} [fresas.png](code/fresas.png){:target="_blank"} <br/> [color-spaces.ipynb](code/color-spaces.ipynb){:target="_blank"} [color-perception.ipynb](code/color-perception.ipynb){:target="_blank"} [color-detection.ipynb](code/color-detection.ipynb){:target="_blank"}
 
 
 # Proyectos
