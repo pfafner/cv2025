@@ -39,6 +39,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 05       | 23.01.2025   | Espacios de color: RGB, HSV y HSL, CIExy, YUV, YCbCr. | [house.jpeg](code/house.jpeg){:target="_blank"} [bananas.jpeg](code/bananas.jpeg){:target="_blank"} [fresas.png](code/fresas.png){:target="_blank"} <br/> [color-spaces.ipynb](code/color-spaces.ipynb){:target="_blank"} [color-perception.ipynb](code/color-perception.ipynb){:target="_blank"} [color-detection.ipynb](code/color-detection.ipynb){:target="_blank"} 
 06       | 28.01.2025   | Ecualización de Histogramas. Algoritmos de binarización: Riddler-Calvard, Otsu. | 
 07       | 30.01.2025   | Algoritmos de binarización II. Cuantización. Segmentación de imágenes. | 
+L1       | 30.01.2025   | Lab 1 <br/> **Fecha de Entrega: 11 de febrero.** | [Lab 01](labs/lab01.pdf){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [coca-cola.jpeg](labs/coca-cola.jpeg){:target="_blank"} [pepsi.png](labs/pepsi.png){:target="_blank"} 
 
 
 # Proyectos
