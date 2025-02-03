@@ -37,8 +37,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 03       | 16.01.2025   | Transformaciones básicas en imágenes. Histogramas. Corrección $\gamma$. | [plane.png](code/plane.png){:target="_blank"} [plane_mask.png](code/plane_mask.png){:target="_blank"} [quetzal.png](code/quetzal.png){:target="_blank"} <br/> [image-types.ipynb](code/image-types.ipynb){:target="_blank"}
 04       | 23.01.2025   | Formación de imágenes. Luminancia y crominancia. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Forsyth-Ponce, Cap. 1 
 05       | 23.01.2025   | Espacios de color: RGB, HSV y HSL, CIExy, YUV, YCbCr. | [house.jpeg](code/house.jpeg){:target="_blank"} [bananas.jpeg](code/bananas.jpeg){:target="_blank"} [fresas.png](code/fresas.png){:target="_blank"} <br/> [color-spaces.ipynb](code/color-spaces.ipynb){:target="_blank"} [color-perception.ipynb](code/color-perception.ipynb){:target="_blank"} [color-detection.ipynb](code/color-detection.ipynb){:target="_blank"} 
-06       | 28.01.2025   | Ecualización de Histogramas. Algoritmos de binarización: Riddler-Calvard, Otsu. | 
-07       | 30.01.2025   | Algoritmos de binarización II. Cuantización. Segmentación de imágenes. | 
+06       | 28.01.2025   | Ecualización de Histogramas. Algoritmos de binarización: Riddler-Calvard, Otsu. | [thresholding2.ipynb](code/thresholding2.ipynb){:target="_blank"} <br/> [tree.jpg](code/tree.jpg){:target="_blank"} [document.png](code/document.png){:target="_blank"}
+07       | 30.01.2025   | Algoritmos de binarización II. Cuantización. Segmentación de imágenes. | [quantization.ipynb](code/quantization.ipynb){:target="_blank"} <br/> [horse.jpg](code/horse.jpg){:target="_blank"} [playa.jpeg](code/playa.jpeg){:target="_blank"}
 L1       | 30.01.2025   | Lab 1 <br/> **Fecha de Entrega: 11 de febrero.** | [Lab 01](labs/lab01.pdf){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [coca-cola.jpeg](labs/coca-cola.jpeg){:target="_blank"} [pepsi.png](labs/pepsi.png){:target="_blank"} 
 08       | 04.02.2025   |   | 
 
