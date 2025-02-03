@@ -40,6 +40,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 06       | 28.01.2025   | Ecualización de Histogramas. Algoritmos de binarización: Riddler-Calvard, Otsu. | 
 07       | 30.01.2025   | Algoritmos de binarización II. Cuantización. Segmentación de imágenes. | 
 L1       | 30.01.2025   | Lab 1 <br/> **Fecha de Entrega: 11 de febrero.** | [Lab 01](labs/lab01.pdf){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [coca-cola.jpeg](labs/coca-cola.jpeg){:target="_blank"} [pepsi.png](labs/pepsi.png){:target="_blank"} 
+08       | 04.02.2025   |   | 
 
 
 # Proyectos
