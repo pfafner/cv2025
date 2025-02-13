@@ -40,7 +40,9 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 06       | 28.01.2025   | Ecualización de Histogramas. Algoritmos de binarización: Riddler-Calvard, Otsu. | [thresholding2.ipynb](code/thresholding2.ipynb){:target="_blank"} <br/> [tree.jpg](code/tree.jpg){:target="_blank"} [document.png](code/document.png){:target="_blank"}
 07       | 30.01.2025   | Algoritmos de binarización II. Cuantización. Segmentación de imágenes. | [quantization.ipynb](code/quantization.ipynb){:target="_blank"} <br/> [horse.jpg](code/horse.jpg){:target="_blank"} [playa.jpeg](code/playa.jpeg){:target="_blank"}
 L1       | 30.01.2025   | Lab 1 <br/> **Fecha de Entrega: 11 de febrero.** | [Lab 01](labs/lab01.pdf){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [coca-cola.jpeg](labs/coca-cola.jpeg){:target="_blank"} [pepsi.png](labs/pepsi.png){:target="_blank"} 
-08       | 04.02.2025   |   | 
+08       | 04.02.2025   | Morfología matemática: *dilation*, *erosion*, *opening*, *closing*, *Top-Hat*. | 
+09       | 06.02.2025   | Esqueletización. Detección de componentes conexas. Operador *Hit-or-Miss*.  | 
+10       | 11.02.2025   | Morfología matemática para *Grayscale*. Algoritmo *Watershed*.  | 
 
 
 # Proyectos
