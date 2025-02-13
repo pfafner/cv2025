@@ -43,7 +43,7 @@ L1       | 30.01.2025   | Lab 1.  [Lab 01](labs/lab01.pdf){:target="_blank"}  <b
 08       | 04.02.2025   | Morfología matemática: *dilation*, *erosion*, *opening*, *closing*, *Top-Hat*. | 
 09       | 06.02.2025   | Esqueletización. Detección de componentes conexas. Operador *Hit-or-Miss*.  | 
 10       | 11.02.2025   | Morfología matemática para imágenes *grayscale*. Algoritmo *Watershed*.  | 
-L2       | 13.02.2025   | Lab 2.  [Lab 02](labs/lab03.pdf){:target="_blank"}  <br/> **Fecha de Entrega: 25 de febrero.** | [brain-scan.jpeg](labs/brain-scan.jpeg){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [microscope.png](labs/microscope.png){:target="_blank"} [butterfly.jpeg](labs/butterfly.jpeg){:target="_blank"} [quetzalgris.png](labs/quetzalgris.png){:target="_blank"} [chestxray.jpeg](labs/chestxray.jpeg){:target="_blank"} [wheat.png](labs/wheat.png){:target="_blank"} 
+L2       | 13.02.2025   | Lab 2.  [Lab 02](labs/lab02.pdf){:target="_blank"}  <br/> **Fecha de Entrega: 25 de febrero.** | [brain-scan.jpeg](labs/brain-scan.jpeg){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [microscope.png](labs/microscope.png){:target="_blank"} [butterfly.jpeg](labs/butterfly.jpeg){:target="_blank"} [quetzalgris.png](labs/quetzalgris.png){:target="_blank"} [chestxray.jpeg](labs/chestxray.jpeg){:target="_blank"} [wheat.png](labs/wheat.png){:target="_blank"} 
 
 # Proyectos
 <div id='id-proj'/>
