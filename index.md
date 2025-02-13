@@ -39,16 +39,24 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 05       | 23.01.2025   | Espacios de color: RGB, HSV y HSL, CIExy, YUV, YCbCr. | [house.jpeg](code/house.jpeg){:target="_blank"} [bananas.jpeg](code/bananas.jpeg){:target="_blank"} [fresas.png](code/fresas.png){:target="_blank"} <br/> [color-spaces.ipynb](code/color-spaces.ipynb){:target="_blank"} [color-perception.ipynb](code/color-perception.ipynb){:target="_blank"} [color-detection.ipynb](code/color-detection.ipynb){:target="_blank"} 
 06       | 28.01.2025   | Ecualización de Histogramas. Algoritmos de binarización: Riddler-Calvard, Otsu. | [thresholding2.ipynb](code/thresholding2.ipynb){:target="_blank"} <br/> [tree.jpg](code/tree.jpg){:target="_blank"} [document.png](code/document.png){:target="_blank"}
 07       | 30.01.2025   | Algoritmos de binarización II. Cuantización. Segmentación de imágenes. | [quantization.ipynb](code/quantization.ipynb){:target="_blank"} <br/> [horse.jpg](code/horse.jpg){:target="_blank"} [playa.jpeg](code/playa.jpeg){:target="_blank"}
-L1       | 30.01.2025   | Lab 1 <br/> **Fecha de Entrega: 11 de febrero.** | [Lab 01](labs/lab01.pdf){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [coca-cola.jpeg](labs/coca-cola.jpeg){:target="_blank"} [pepsi.png](labs/pepsi.png){:target="_blank"} 
+L1       | 30.01.2025   | Lab 1.  [Lab 01](labs/lab01.pdf){:target="_blank"}  <br/> **Fecha de Entrega: 11 de febrero.** | [rice.jpg](labs/rice.jpg){:target="_blank"} [coca-cola.jpeg](labs/coca-cola.jpeg){:target="_blank"} [pepsi.png](labs/pepsi.png){:target="_blank"} 
 08       | 04.02.2025   | Morfología matemática: *dilation*, *erosion*, *opening*, *closing*, *Top-Hat*. | 
 09       | 06.02.2025   | Esqueletización. Detección de componentes conexas. Operador *Hit-or-Miss*.  | 
 10       | 11.02.2025   | Morfología matemática para imágenes *grayscale*. Algoritmo *Watershed*.  | 
-
+L2       | 13.02.2025   | Lab 2.  [Lab 02](labs/lab03.pdf){:target="_blank"}  <br/> **Fecha de Entrega: 25 de febrero.** | [brain-scan.jpeg](labs/brain-scan.jpeg){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [microscope.png](labs/microscope.png){:target="_blank"} [butterfly.jpeg](labs/butterfly.jpeg){:target="_blank"} [quetzalgris.png](labs/quetzalgris.png){:target="_blank"} [chestxray.jpeg](labs/chestxray.jpeg){:target="_blank"} [wheat.png](labs/wheat.png){:target="_blank"} 
 
 # Proyectos
 <div id='id-proj'/>
 
 En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más adelante.
+
+## Proyecto 1
+<div id='id-proj1'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 13.02.2025   | Proyecto 1 - *Angiogramas coronarios*.        | [Proyecto 1](proyectos/pr1/Proyecto1.pdf){:target="_blank"} <br/>  [database.zip](proyectos/pr1/database.zip){:target="_blank"} 
+ 2       | 13.03.2025   | Entrega del proyecto.                         | 
 
 
 # Referencias
