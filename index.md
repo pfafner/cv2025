@@ -44,6 +44,7 @@ L1       | 30.01.2025   | Lab 1.  [Lab 01](labs/lab01.pdf){:target="_blank"}  <b
 09       | 06.02.2025   | Esqueletización. Detección de componentes conexas. Operador *Hit-or-Miss*. | [octagons.png](code/octagons.png){:target="_blank"} [text.png](code/text.png){:target="_blank"} [text2.png](code/text2.png){:target="_blank"} <br/> [morphology2.ipynb](code/morphology2.ipynb){:target="_blank"} 
 10       | 11.02.2025   | Morfología matemática para imágenes *grayscale*. Algoritmo *Watershed*. | [quetzalgris.png](labs/quetzalgris.png){:target="_blank"} [morphology3.ipynb](code/morphology3.ipynb){:target="_blank"} 
 L2       | 13.02.2025   | Lab 2.  [Lab 02](labs/lab02.pdf){:target="_blank"}  <br/> **Fecha de Entrega: 25 de febrero.** | [brain-scan.jpeg](labs/brain-scan.jpeg){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [microscope.png](labs/microscope.png){:target="_blank"} [butterfly.jpeg](labs/butterfly.jpeg){:target="_blank"} [quetzalgris.png](labs/quetzalgris.png){:target="_blank"} [chestxray.jpeg](labs/chestxray.jpeg){:target="_blank"} [wheat.png](labs/wheat.png){:target="_blank"} 
+11       | 18.02.2025   | Convolución y correlación. Filtros binarios. | 
 
 # Proyectos
 <div id='id-proj'/>
