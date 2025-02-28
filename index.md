@@ -46,6 +46,8 @@ L1       | 30.01.2025   | Lab 1.  [Lab 01](labs/lab01.pdf){:target="_blank"}  <b
 L2       | 13.02.2025   | Lab 2.  [Lab 02](labs/lab02.pdf){:target="_blank"}  <br/> **Fecha de Entrega: 25 de febrero.** | [brain-scan.jpeg](labs/brain-scan.jpeg){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [microscope.png](labs/microscope.png){:target="_blank"} [butterfly.jpeg](labs/butterfly.jpeg){:target="_blank"} [quetzalgris.png](labs/quetzalgris.png){:target="_blank"} [chestxray.jpeg](labs/chestxray.jpeg){:target="_blank"} [wheat.png](labs/wheat.png){:target="_blank"} 
 11       | 18.02.2025   | Convolución y correlación. Filtros binarios. | 
 12       | 20.02.2025   | Tipos de *padding*. Filtros lineales: Prewitt, Sobel, Laplace. | 
+13       | 25.02.2025   | Filtros de orden, filtro de medianas. Eliminación de ruido. | 
+14       | 27.02.2025   | Filtros gaussianos. Fitros de Gabor. Bancos de filtros. | 
 
 
 # Proyectos
