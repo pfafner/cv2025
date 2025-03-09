@@ -48,7 +48,7 @@ L2       | 13.02.2025   | Lab 2.  [Lab 02](labs/lab02.pdf){:target="_blank"}  <b
 12       | 20.02.2025   | Tipos de *padding*. Filtros lineales: Prewitt, Sobel, Laplace. | 
 13       | 25.02.2025   | Filtros de orden, filtro de medianas. Eliminación de ruido. | 
 14       | 27.02.2025   | Filtros gaussianos. Fitros de Gabor. Bancos de filtros. | 
-15       |  |  | 
+
 
 # Proyectos
 <div id='id-proj'/>
