@@ -51,6 +51,7 @@ L2       | 13.02.2025   | Lab 2.  [Lab 02](labs/lab02.pdf){:target="_blank"}  <b
 15       | 04.03.2025   | Transformada rápida de Fourier. <br/> |  
 16       | 11.03.2025   | Filtro de Canny. Transformada de Hough. <br/> |  
 17       | 11.03.2025   | Filtros de Haar. Imagen integral. Algoritmo de Viola-Jones para detección de caras.  |  
+18       | 13.03.2025   | Ejemplos de filtros de Haar. Uso de librerías MediaPipe.  |  
 
 
 # Proyectos
