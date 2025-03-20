@@ -68,6 +68,15 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
  2       | 13.03.2025   | Entrega del proyecto.                         | 
 
 
+## Proyecto 2
+<div id='id-proj2'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 20.03.2025   | Proyecto 2 - *Detección de objetos*.        | [Proyecto 2](proyectos/pr2/Proyecto2.pdf){:target="_blank"} <br/> 
+ 2       | 10.04.2025   | Entrega del proyecto.  
+
+ 
 # Referencias
 <div id='id-ref'/>
 
