@@ -53,7 +53,7 @@ L2       | 13.02.2025   | Lab 2.  [Lab 02](labs/lab02.pdf){:target="_blank"}  <b
 17       | 11.03.2025   | Filtros de Haar. Imagen integral. Algoritmo de Viola-Jones para detección de caras. | [Paper Viola-Jones (2001)](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf){:target="_blank"} 
 18       | 13.03.2025   | Ejemplos de filtros de Haar. Uso de librerías MediaPipe. | 
 19       | 20.03.2025   | Histograma de Gradientes Orientados (HoG). | [Paper Dalal-Triggs (2005)](https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf){:target="_blank"}  
-L3       | 25.03.2025   | Construcción de un HoG. <br/> |  
+L3       | 25.03.2025   | Construcción de un HoG. <br/> [Lab 03](labs/lab03.pdf){:target="_blank"} | **Fecha de Entrega: 01 de abril.** 
 
 
 # Proyectos
