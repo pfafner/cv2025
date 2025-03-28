@@ -54,6 +54,7 @@ L2       | 13.02.2025   | Lab 2.  [Lab 02](labs/lab02.pdf){:target="_blank"}  <b
 18       | 13.03.2025   | Ejemplos de filtros de Haar. Uso de librerías MediaPipe. | 
 19       | 20.03.2025   | Histograma de Gradientes Orientados (HoG). | [Paper Dalal-Triggs (2005)](https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf){:target="_blank"}  
 L3       | 25.03.2025   | Construcción de un HoG. <br/> [Lab 03](labs/lab03.pdf){:target="_blank"} [person.png](labs/person.png){:target="_blank"} | **Fecha de Entrega: 01 de abril.** 
+20       | 27.03.2025   | Puntos característicos. Detector de esquinas de Harris. | 
 
 
 # Proyectos
