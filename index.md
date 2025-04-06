@@ -57,7 +57,7 @@ L3       | 25.03.2025   | Construcción de un HoG. <br/> [Lab 03](labs/lab03.pdf
 20       | 27.03.2025   | Puntos característicos. Detector de esquinas de Harris. | [harris-detector.ipynb](labs/harris-detector.ipynb){:target="_blank"}
 21       | 01.04.2025   | Descriptores de puntos característicos: SIFT, SURF, ORB. |  
 22       | 03.04.2025   | Elementos de geometría proyectiva. Transformaciones proyectivas. |  
-
+.        |    |    | 
 
 # Proyectos
 <div id='id-proj'/>
