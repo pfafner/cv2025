@@ -81,6 +81,32 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
  1       | 20.03.2025   | Proyecto 2 - *Detección de objetos*.        | [Proyecto 2](proyectos/pr2/Proyecto2.pdf){:target="_blank"} <br/> 
  2       | 10.04.2025   | Entrega del proyecto.  
 
+
+## Horarios Presentación Proyecto 2
+<div id='id-proj2hor'/>
+
+**Grupo No.**  | **Hora**     | **Lugar**
+-------------- | ------------ | ------------
+ 4             | 4:15         | TBA
+ 2             | 4:30         | TBA
+ 9             | 4:45         | TBA
+ 11            | 5:00         | TBA
+ 10            | 5:15         | TBA
+ 8             | 5:30         | TBA
+ 7             | 5:45         | TBA
+ 3             | 6:00         | TBA
+ 5             | 6:10         | TBA
+ 6             | 6:30         | TBA
+ 1             | 6:45         | TBA
+ 
+
+## Proyecto 3
+<div id='id-proj3'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 08.04.2025   | Proyecto 3 - *Panoramas*.                     | [Proyecto 3](proyectos/pr3/Proyecto3.pdf){:target="_blank"} <br/> 
+ 2       | 15.05.2025   | Entrega del proyecto.  
  
 # Referencias
 <div id='id-ref'/>
