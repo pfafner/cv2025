@@ -82,24 +82,6 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
  1       | 20.03.2025   | Proyecto 2 - *Detección de objetos*.        | [Proyecto 2](proyectos/pr2/Proyecto2.pdf){:target="_blank"} <br/> 
  2       | 10.04.2025   | Entrega del proyecto.  
-
-
-## Horarios Presentación Proyecto 2
-<div id='id-proj2hor'/>
-
-**Grupo No.**  | **Hora**     | **Lugar**
--------------- | ------------ | ------------
- 4             | 4:15         | I-106
- 2             | 4:30         | I-106
- 9             | 4:45         | I-106
- 11            | 5:00         | I-106
- 10            | 5:15         | I-106
- 8             | 5:30         | I-106
- 7             | 5:45         | I-106
- 3             | 6:00         | I-106
- 5             | 6:10         | I-106
- 6             | 6:30         | I-106
- 1             | 6:45         | I-106
  
 
 ## Proyecto 3
