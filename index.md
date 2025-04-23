@@ -58,7 +58,7 @@ L3       | 25.03.2025   | Construcción de un HoG. <br/> [Lab 03](labs/lab03.pdf
 21       | 01.04.2025   | Descriptores de puntos característicos: SIFT, SURF, ORB. |  
 22       | 03.04.2025   | Elementos de geometría proyectiva. Transformaciones proyectivas. |  
 23       | 10.04.2025   | Presentación del segundo proyecto | 
-24       |  |  |  
+24       | 22.04.2025   | Cálculo de homografías. *Image stitching*. *Warping*. |  
 
 
 # Proyectos
