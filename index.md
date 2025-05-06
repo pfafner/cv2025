@@ -92,6 +92,20 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
  1       | 08.04.2025   | Proyecto 3 - *Panoramas*.                     | [Proyecto 3](proyectos/pr3/Proyecto3.pdf){:target="_blank"} <br/> 
  2       | 15.05.2025   | Entrega del proyecto.  
+
+
+## Proyecto 4
+<div id='id-proj4'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 05.05.2025   | Proyecto 4 - *Redes Neuronales*.              | Tema libre sobre uso de NN en visión computacional. 
+ 2       | 20.05.2025   | Fecha límite para definición de tema.         | Deberán enviar un correo electrónico para la aprobación del tema.
+ 3       | 2-6.06.2025  | Presentaciones.                               | 
+ 4       | 06.06.2025   | Entrega del proyecto.                         | 
+ 
+
+
  
 # Referencias
 <div id='id-ref'/>
