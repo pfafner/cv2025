@@ -60,7 +60,9 @@ L3       | 25.03.2025   | Construcción de un HoG. <br/> [Lab 03](labs/lab03.pdf
 23       | 10.04.2025   | Presentación del segundo proyecto | 
 24       | 22.04.2025   | Cálculo de homografías. *Image stitching*. *Warping*. |  
 25       | 24.04.2025   | *Blending*. Otras transformaciones no lineales. |  
-26       | 06.05.2025   | Redes neuronales convolucionales. <br/> | 
+26       | 06.05.2025   | Redes neuronales convolucionales. Conv2D y Conv3D, Dropout, Pooling. | 
+30       | 08.05.2025   | Arquitecturas de ConvNets. Batch Normalization, Residual. *Skip Connections*. | 
+
 
 
 # Proyectos
