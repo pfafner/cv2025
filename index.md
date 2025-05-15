@@ -101,8 +101,7 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
 
 **Fecha**    | **Hora**  | **Equipo**  |  **Lugar** 
 ------------ | --------- |  ---------- | ---------------
-15.05.2025   | 4:45      | Grupo 8     | I-108 
-15.05.2025   | 5:00      | Grupo 4     | I-108 
+15.05.2025   | 5:00      | Grupo 8     | I-108 
 15.05.2025   | 5:15      | Grupo 3     | I-108 
 15.05.2025   | 5:30      | Grupo 6     | I-108 
 15.05.2025   | 5:45      | Grupo 11    | I-108 
@@ -112,6 +111,7 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
 15.05.2025   | 6:45      | Grupo 10    | I-108 
 15.05.2025   | 7:00      | Grupo 1     | I-108 
 15.05.2025   | 7:15      | Grupo 9     | I-108 
+15.05.2025   | 7:30      | Grupo 4     | I-108 
 
 
 ## Proyecto 4
