@@ -97,6 +97,23 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
  2       | 15.05.2025   | Entrega del proyecto.  
 
 
+## Horarios de presentación Proyecto 3
+
+**Fecha**    | **Hora**  | **Equipo**  |  **Lugar** 
+------------ | --------- |  ---------- | ---------------
+15.05.2025   | 4:45      | Grupo 8     | I-108 
+15.05.2025   | 5:00      | Grupo 4     | I-108 
+15.05.2025   | 5:15      | Grupo 3     | I-108 
+15.05.2025   | 5:30      | Grupo 6     | I-108 
+15.05.2025   | 5:45      | Grupo 11    | I-108 
+15.05.2025   | 6:00      | Grupo 7     | I-108 
+15.05.2025   | 6:15      | Grupo 5     | I-108 
+15.05.2025   | 6:30      | Grupo 2     | I-108 
+15.05.2025   | 6:45      | Grupo 10    | I-108 
+15.05.2025   | 7:00      | Grupo 1     | I-108 
+15.05.2025   | 7:15      | Grupo 9     | I-108 
+
+
 ## Proyecto 4
 <div id='id-proj4'/>
 
