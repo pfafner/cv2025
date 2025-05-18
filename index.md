@@ -57,12 +57,13 @@ L3       | 25.03.2025   | Construcción de un HoG. <br/> [Lab 03](labs/lab03.pdf
 20       | 27.03.2025   | Puntos característicos. Detector de esquinas de Harris. | [harris-detector.ipynb](labs/harris-detector.ipynb){:target="_blank"}
 21       | 01.04.2025   | Descriptores de puntos característicos: SIFT, SURF, ORB. |  
 22       | 03.04.2025   | Elementos de geometría proyectiva. Transformaciones proyectivas. |  
-23       | 10.04.2025   | Presentación del segundo proyecto | 
+23       | 10.04.2025   | Presentación del segundo proyecto. | 
 24       | 22.04.2025   | Cálculo de homografías. *Image stitching*. *Warping*. |  
 25       | 24.04.2025   | *Blending*. Otras transformaciones no lineales. |  
 26       | 06.05.2025   | Redes neuronales convolucionales. Conv2D y Conv3D, Dropout, Pooling. | 
 27       | 08.05.2025   | Arquitecturas de ConvNets. Batch Normalization, Residual. *Skip Connections*. | 
 28       | 13.05.2025   | Implementación de ConvNets en Keras. | 
+29       | 15.05.2025   | Presentación del tercer proyecto. | 
 
 
 # Proyectos
