@@ -61,8 +61,8 @@ L3       | 25.03.2025   | Construcción de un HoG. <br/> [Lab 03](labs/lab03.pdf
 24       | 22.04.2025   | Cálculo de homografías. *Image stitching*. *Warping*. |  
 25       | 24.04.2025   | *Blending*. Otras transformaciones no lineales. |  
 26       | 06.05.2025   | Redes neuronales convolucionales. Conv2D y Conv3D, Dropout, Pooling. | 
-30       | 08.05.2025   | Arquitecturas de ConvNets. Batch Normalization, Residual. *Skip Connections*. | 
-
+27       | 08.05.2025   | Arquitecturas de ConvNets. Batch Normalization, Residual. *Skip Connections*. | 
+28       | 13.05.2025   | Implementación de ConvNets en Keras. | 
 
 
 # Proyectos
@@ -97,23 +97,6 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
  2       | 15.05.2025   | Entrega del proyecto.  
 
 
-## Horarios de presentación Proyecto 3
-
-**Fecha**    | **Hora**  | **Equipo**  |  **Lugar** 
------------- | --------- |  ---------- | ---------------
-15.05.2025   | 5:00      | Grupo 8     | I-108 
-15.05.2025   | 5:15      | Grupo 3     | I-108 
-15.05.2025   | 5:30      | Grupo 6     | I-108 
-15.05.2025   | 5:45      | Grupo 11    | I-108 
-15.05.2025   | 6:00      | Grupo 7     | I-108 
-15.05.2025   | 6:15      | Grupo 5     | I-108 
-15.05.2025   | 6:30      | Grupo 2     | I-108 
-15.05.2025   | 6:45      | Grupo 10    | I-108 
-15.05.2025   | 7:00      | Grupo 1     | I-108 
-15.05.2025   | 7:15      | Grupo 9     | I-108 
-15.05.2025   | 7:30      | Grupo 4     | I-108 
-
-
 ## Proyecto 4
 <div id='id-proj4'/>
 
@@ -123,8 +106,6 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
  2       | 20.05.2025   | Fecha límite para definición de tema.         | Deberán enviar un correo electrónico para la aprobación del tema.
  3       | 2-6.06.2025  | Presentaciones.                               | 
  4       | 06.06.2025   | Entrega del proyecto.                         | 
- 
-
 
  
 # Referencias
