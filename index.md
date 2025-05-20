@@ -62,7 +62,7 @@ L3       | 25.03.2025   | Construcción de un HoG. <br/> [Lab 03](labs/lab03.pdf
 25       | 24.04.2025   | *Blending*. Otras transformaciones no lineales. |  
 26       | 06.05.2025   | Redes neuronales convolucionales. Conv2D y Conv3D, Dropout, Pooling. | 
 27       | 08.05.2025   | Arquitecturas de ConvNets. Batch Normalization, Residual. *Skip Connections*. | 
-28       | 13.05.2025   | Implementación de ConvNets en Keras. | 
+28       | 13.05.2025   | Implementación de ConvNets en Keras. | Ejemplos en Keras. [CNNs.ipynb](code/CNNs.ipynb){:target="_blank"} [plotmatrix.py](code/plotmatrix.py){:target="_blank"}
 29       | 15.05.2025   | Presentación del tercer proyecto. | 
 
 
