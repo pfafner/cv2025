@@ -65,6 +65,7 @@ L3       | 25.03.2025   | Construcción de un HoG. <br/> [Lab 03](labs/lab03.pdf
 28       | 13.05.2025   | Implementación de ConvNets en Keras. | Ejemplos en Keras. [CNNs.ipynb](code/CNNs.ipynb){:target="_blank"} [plotmatrix.py](code/plotmatrix.py){:target="_blank"}
 29       | 15.05.2025   | Presentación del tercer proyecto. | 
 L4       | 20.05.2025   | Filtros anisotrópicos. Implementación de la U-Net. <br/> [Lab 04](labs/lab04.pdf){:target="_blank"} [anisotropic.py](labs/Anisotropic.py){:target="_blank"} | **Fecha de Entrega: 31 de mayo.** 
+30       | 27.05.2025   | Charla sobre aplicaciónes de visión y neuroimagen. | 
 
 
 # Proyectos
