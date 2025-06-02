@@ -117,10 +117,10 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
 
 **Fecha**  | **Hora**  | **Grupo**  
 ---------- | --------- | ----------------
-03.06.2025 |           |            
-03.06.2025 |           |            
-03.06.2025 |           |            
-03.06.2025 |           |            
+02.06.2025 | 19:30     | Grupo 3           
+03.06.2025 | 17:00     | Roberto Ríos           
+03.06.2025 | 17:30     | Grupo 10            
+03.06.2025 | 18:00     | Grupo 5            
 05.06.2025 | 17:00     | Grupo 8           
 05.06.2025 | 17:30     | Grupo 11           
 05.06.2025 | 18:00     | Grupo 7           
