@@ -111,6 +111,14 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
  3       | 2-6.06.2025  | Presentaciones.                               | 
  4       | 06.06.2025   | Entrega del proyecto.                         | 
 
+
+## Horarios presentación Proyecto 4
+<div id='id-proj4h'/>
+
+**Fecha**  | **Hora**  | **Grupo**  
+---------- | --------- | -----------------------
+03.06.2025 |           |            
+
  
 # Referencias
 <div id='id-ref'/>
