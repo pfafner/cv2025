@@ -110,25 +110,7 @@ En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más ad
  2       | 20.05.2025   | Fecha límite para definición de tema.         | Deberán enviar un correo electrónico para la aprobación del tema.
  3       | 2-6.06.2025  | Presentaciones.                               | 
  4       | 06.06.2025   | Entrega del proyecto.                         | 
-
-
-## Horarios presentación Proyecto 4
-<div id='id-proj4h'/>
-
-**Fecha**  | **Hora**  | **Grupo**  
----------- | --------- | ----------------
-02.06.2025 | 19:00     | Grupo 3           
-03.06.2025 | 17:00     | Roberto Ríos           
-03.06.2025 | 17:30     | Grupo 10            
-03.06.2025 | 18:00     | Grupo 5            
-05.06.2025 | 17:00     | Grupo 8           
-05.06.2025 | 17:30     | Grupo 11           
-05.06.2025 | 18:00     | Grupo 7           
-05.06.2025 | 18:30     | Grupo 9           
-05.06.2025 | 19:00     | Grupo 1       
-06.06.2025 | 17:00     | Grupo 6           
-06.06.2025 | 17:30     | Grupo 2             
-
+           
  
 # Referencias
 <div id='id-ref'/>
