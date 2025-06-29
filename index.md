@@ -72,7 +72,7 @@ L4       | 20.05.2025   | Filtros anisotrópicos. Implementación de la U-Net. <
 # Proyectos
 <div id='id-proj'/>
 
-En el curso se desarrollarán cuatro proyectos, los cuales se indicarán más adelante.
+En el curso se desarrollarán cuatro proyectos, los cuales se describen a continuación. 
 
 ## Proyecto 1
 <div id='id-proj1'/>
